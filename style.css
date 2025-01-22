@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+}
+.welcomeContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 89, 255, 0.871);
+    color: white;
+}
+
+.welcomeHeading{
+    /* font-family:sans-serif; */
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    /* font-weight: bold; */
+}
+
+.welcomePara{
+    font-size: 1.3rem;
+    font-weight: lighter;
+    /* font-family:'Times New Roman', Times, serif; */
+}
+
+.welcomeBtn{
+    margin-bottom: 3rem;
+    border-radius: 7px;
+    padding: 8px;
+    border: none;
+    font-size: 1.3rem;
+    /* font-weight: lighter; */
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+/* .d-block{
+    height: 1100px;
+} */
+
+.corrousalArea{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.corousalHeading{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.corousalContainer{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.d-block{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.articleContainer{
+    margin-top: 5rem;
+    /* display: flex; */
+}
+
+.articleImage{
+    width: 100%;
+    height: 100%;
+    border-radius: 4px; 
+    object-fit: cover;
+}
+
+.faqContainer{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-top: 4rem;
+    background-color: rgba(132, 132, 115, 0.062);
+}
+
+.faqHeading{
+    text-align: center;
+    padding: 2rem;
+}
+
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#teams{
+    margin-top: 3rem;
+    margin-bottom: 10rem;
+}
+
+.toastSection{
+    margin-bottom: 5rem;
+}
+.toastContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.toastHeading{
+    margin-bottom: 2rem;
+}
+
+.contactusContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.contactHeading{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.footerClass{
+    margin-top: 3rem;
+    background-color: rgb(35, 31, 31);
+    color: white;
+    width: 100%;
+}
+
+.footerText{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-img-top{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
