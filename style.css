@@ -1,42 +1,38 @@
 *{
     box-sizing: border-box;
 }
-.welcomeContainer{
+/* .welcomeContainer{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: rgba(0, 89, 255, 0.871);
     color: white;
-}
+} */
 
-.welcomeHeading{
+/* .welcomeHeading{ */
     /* font-family:sans-serif; */
-    margin-top: 3rem;
-    font-size: 2.5rem;
+    /* margin-top: 3rem; */
+    /* font-size: 2.5rem; */
     /* font-weight: bold; */
-}
+/* } */
 
-.welcomePara{
-    font-size: 1.3rem;
-    font-weight: lighter;
+/* .welcomePara{ */
+    /* font-size: 1.3rem; */
+    /* font-weight: lighter; */
     /* font-family:'Times New Roman', Times, serif; */
-}
+/* } */
 
-.welcomeBtn{
+/* .welcomeBtn{
     margin-bottom: 3rem;
     border-radius: 7px;
     padding: 8px;
     border: none;
     font-size: 1.3rem;
-    /* font-weight: lighter; */
     padding-right: 16px;
     padding-left: 16px;
-}
-
-/* .d-block{
-    height: 1100px;
 } */
+
 
 .corrousalArea{
     display: flex;
@@ -55,13 +51,6 @@
     height: 100%;
 }
 
-
-
-.d-block{
-    width: 100%;
-    height: 100vh;
-    object-fit: cover;
-}
 
 .articleContainer{
     margin-top: 5rem;
